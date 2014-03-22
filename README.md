@@ -1,4 +1,2 @@
-php
-===
-
-php代码
+<?php
+  echo 'hello world';
